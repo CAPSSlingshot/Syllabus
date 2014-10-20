@@ -9,7 +9,7 @@ Welcome to CAPS Training! Prepare to have all that theory you've had in class ir
   * [CAPS Wiki](#caps-wiki)
 * [**Source Control**](#time-periods)
   * [Github](#github)
-  * [SourceTree](#source-tree)
+  * [SourceTree](#sourcetree)
   * [RhodeCode](#rhodecode)
 * [**C#**](#c-sharp)
   * [Language Introduction](#language-introduction)
