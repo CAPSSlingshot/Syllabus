@@ -32,3 +32,5 @@ Welcome to CAPS Training! Prepare to have all that theory you've had in class ir
 ####SourceTree
 
 ####RhodeCode
+
+This is a line at the bottom!
