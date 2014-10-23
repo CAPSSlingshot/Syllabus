@@ -2,6 +2,8 @@
 
 Welcome to CAPS Training! Prepare to have all that theory you've had in class ironed into something you can actually use. By the time you are done, you will graduate from padawan to full jedi knight.
 
+This is the new line! IT'S SO COOL!
+
 ##Course Overview
 
 * [**Introduction**](#time-periods)
